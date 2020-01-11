@@ -18,6 +18,7 @@
 | Spotify 클론 | X | X | X |
 | Skype 클론 | X | X | X |
 | Festa! 클론 | X | X | X |
+| Discord 클론 | X | X | X |
 
 ## 기타
 - [링크](https://github.com/connect-foundation/2019-projectsinfo)에 있는 프로젝트 참조 
