@@ -23,3 +23,4 @@
 ## 기타
 - [링크](https://github.com/connect-foundation/2019-projectsinfo)에 있는 프로젝트 참조 
 - Lucidchart (https://www.lucidchart.com/)
+- React Discord (https://github.com/ericellb/React-Discord-Clone)
